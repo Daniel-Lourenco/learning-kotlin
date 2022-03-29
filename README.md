@@ -5,7 +5,7 @@ Esse repositório foi criado para armazenar materiais didáticos e projetos volt
 
 - ### Kotlin Bootcamp for Programmers by Google Developers Training team (em andamento)
 - ### Android Basics in Kotlin by Google Developers Training team (em espera)
-- ### Track: Kotlin Basics by Jet Brains Academy (em andamento)
+- ### Track: Kotlin Basics by JetBrains Academy (em andamento)
 - ### Bootcamp Sportheca Mobile Developer by Digital Innovation One (em andamento)
 
 
